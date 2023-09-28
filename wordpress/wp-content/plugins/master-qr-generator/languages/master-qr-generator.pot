@@ -1,0 +1,654 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/master-qr-generator/\n"
+"POT-Creation-Date: 2022-12-20 12:43+0600\n"
+"PO-Revision-Date: 2022-12-20 12:42+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;__;esc_html;esc_html_e\n"
+"X-Poedit-SearchPath-0: public/class-masterqr-lite-public.php\n"
+"X-Poedit-SearchPath-1: admin/class_maserqr_list_view.php\n"
+"X-Poedit-SearchPath-2: admin/class_masterqr_print.php\n"
+"X-Poedit-SearchPath-3: admin/class-masterqr-lite-admin.php\n"
+"X-Poedit-SearchPath-4: admin/index.php\n"
+"X-Poedit-SearchPath-5: admin/masterqr-lite-func.php\n"
+"X-Poedit-SearchPath-6: admin/pro_features.php\n"
+"X-Poedit-SearchPath-7: includes/class-masterqr-lite.php\n"
+"X-Poedit-SearchPath-8: includes/class-masterqr-lite-activator.php\n"
+"X-Poedit-SearchPath-9: includes/class-masterqr-lite-deactivator.php\n"
+"X-Poedit-SearchPath-10: includes/class-masterqr-lite-i18n.php\n"
+"X-Poedit-SearchPath-11: includes/class-masterqr-lite-loader.php\n"
+"X-Poedit-SearchPath-12: master-qr-lite.php\n"
+"X-Poedit-SearchPath-13: uninstall.php\n"
+
+#: admin/class-masterqr-lite-admin.php:141
+#: admin/class-masterqr-lite-admin.php:216
+msgid "Settings"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:142
+msgid "Go Pro"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:158
+msgid "Master QR"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:163
+msgid "Print QR Code"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:168
+msgid "QR Code Downlaod"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:172
+msgid "Why Upgade"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:176
+#: admin/class-masterqr-lite-admin.php:197
+#: admin/class-masterqr-lite-admin.php:261
+#: admin/class-masterqr-lite-admin.php:616
+msgid "Get Pro"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:194
+msgid "Download Demo"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:196
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:198
+#: admin/class-masterqr-lite-admin.php:200
+#: admin/class-masterqr-lite-admin.php:263
+#: admin/class-masterqr-lite-admin.php:620
+msgid "More Plugin"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:199
+#: admin/class-masterqr-lite-admin.php:262
+#: admin/class-masterqr-lite-admin.php:619
+msgid "Support"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:206
+msgid "Master QR Download (Premium)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:207
+#: admin/class-masterqr-lite-admin.php:271
+msgid "This is the Premium Features for Master QR Generator Plugin"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:219
+msgid "Dowload Page"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:223
+#: admin/class-masterqr-lite-admin.php:288
+msgid ""
+"The color, background, and logo images of these QR codes will come from the"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:224
+#: admin/class-masterqr-lite-admin.php:288
+msgid "current page settings"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:259
+msgid "Print Demo"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:260
+#: admin/class-masterqr-lite-admin.php:617
+msgid "Docs"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:270
+msgid "Master QR Bulk Print (Premium)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:280
+msgid "Print Settings"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:283
+msgid "Print Page"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:333 admin/class_maserqr_list_view.php:32
+#: admin/class_masterqr_print.php:31
+msgid "QR Code Size"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:338
+msgid "Exclude From Post type"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:343
+msgid "QR Alignment"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:348
+msgid "Dot Scale"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:357
+msgid "Customize Text in Product Page"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:361
+msgid "Color (Pro)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:367
+msgid "Image Upload (Pro)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:374
+msgid "Shortcode for Current Page URL (Pro)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:386
+msgid ""
+"These QR codes are automatically displayed after the content is based on the "
+"type of post"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:418
+msgid "Dot Scale Patterns. Ranges: 0.4 -0.8"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:433
+msgid "Input a square value, Default:200 "
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:495
+#: admin/class-masterqr-lite-admin.php:505
+msgid "Left"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:496
+#: admin/class-masterqr-lite-admin.php:506
+msgid "Right"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:497
+#: admin/class-masterqr-lite-admin.php:507
+msgid "Center"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:502
+msgid "QR Alignment(Product Page) "
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:614
+msgid "Pro Demo"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:626
+#: admin/class-masterqr-lite-admin.php:726
+#: admin/class-masterqr-lite-admin.php:810
+msgid "Master QR Generator"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:627
+msgid "The Most Styling QR Code Generated Automatically"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:635
+msgid "Current Page QR"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:654
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:658
+msgid " QR Color, Background Color"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:659
+msgid " QR Eye & Position Color"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:660
+msgid "Logo / Image Upload"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:661
+msgid "Add Logo for different Post type"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:662
+msgid "Background Image Upload"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:663
+msgid "Shortcode (Attribute Supported)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:664
+msgid "Widget supported"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:665
+msgid "Elementor pagebuilder supported"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:666
+msgid "QR Bulk Print for frontend & backend"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:667
+msgid "QR Download  for frontend & backend"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:668
+msgid "Custom Link or Text QR Generator"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:669
+msgid "Google map Location QR Generator"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:670
+msgid "Whatsapp chat QR"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:671
+msgid "Wifi Access QR Generator"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:672
+msgid "vCard QR Generator"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:674
+msgid "Premium Support and Many More"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:679
+msgid "Premium QR Code &#8681;"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:682
+msgid "Get Premium"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:694
+msgid "Custom Link/Wifi/Map/WhatsApp/vCard QR (Pro)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:697
+msgid ""
+"This is a premium feature of this plugin, you can create custom links, text, "
+"wifi, whatsapp, maps and qr codes for vCard. The special feature is that it "
+"is displayed through shortcodes and each shortcode has attribute so that you "
+"can create multiple shortcodes for different content"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:697
+#: admin/class-masterqr-lite-admin.php:703
+msgid "View Live demo"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:702
+msgid "Add Logo for Post Type(Pro)"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:703
+msgid ""
+"With these settings, you can set the logo based on the post type. So you can "
+"manage the brand logo and increase the brand value by the QR code. Go to the "
+"“Add logo for post type” tab and click the Insert Image button and select "
+"the image and then save. "
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:761
+msgid "Disable QR?"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:765 admin/class_masterqr_print.php:241
+#: admin/class_masterqr_print.php:253
+msgid "No"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:766 admin/class_masterqr_print.php:240
+#: admin/class_masterqr_print.php:252
+msgid "Yes"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:810
+msgid "Thank you for using"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:811
+msgid "Please rate on"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:811
+msgid "WordPress.org"
+msgstr ""
+
+#: admin/class-masterqr-lite-admin.php:811
+msgid "to help us spread the word!  "
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:33 admin/class_masterqr_print.php:33
+msgid "Post Type"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:34
+msgid "QR Per Page"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:36
+msgid "Order By"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:39
+msgid "Order"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:41 admin/class_masterqr_print.php:50
+msgid "Enable Shortcode For Frontend?"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:47 admin/class_masterqr_print.php:269
+msgid "Click to enable shortcodes for frontend"
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:104
+msgid "QR Code Image Per Page,Display all: -1 "
+msgstr ""
+
+#: admin/class_maserqr_list_view.php:111
+msgid "Input a numeric value, e.g:200"
+msgstr ""
+
+#: admin/class_masterqr_print.php:35
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/class_masterqr_print.php:37
+msgid "Category Type"
+msgstr ""
+
+#: admin/class_masterqr_print.php:40
+msgid "Qr Print Per Page"
+msgstr ""
+
+#: admin/class_masterqr_print.php:42
+msgid "Display Title?"
+msgstr ""
+
+#: admin/class_masterqr_print.php:46
+msgid "Display Product Price?"
+msgstr ""
+
+#: admin/class_masterqr_print.php:132
+msgid ""
+"Select the Category based on the Taxonomy type above, if this field is empty "
+"or not selected correctly, the filter will not work, then the QR code will "
+"be displayed as the selected Post type"
+msgstr ""
+
+#: admin/class_masterqr_print.php:188
+msgid ""
+"Select the Taxonomy based on the post type above, if this field is empty or "
+"or not selected correctly the filter will not work, then the QR code will be "
+"displayed as the selected post type above"
+msgstr ""
+
+#: admin/class_masterqr_print.php:232
+msgid "Qr Code Image Per Page,Display all: -1 "
+msgstr ""
+
+#: admin/class_masterqr_print.php:256
+msgid "If Post Type \"product\" "
+msgstr ""
+
+#: admin/class_masterqr_print.php:262
+msgid ""
+"Enter a numeric value, e.g: 254, Here the value of QR size will different "
+"for the Count block. So you will not get the same size Image for all QR "
+msgstr ""
+
+#: admin/pro_features.php:7
+msgid "Upgrade to Master QR Pro!"
+msgstr ""
+
+#: admin/pro_features.php:8
+msgid ""
+"In the premium version you will get the benefit of bulk print & bulk "
+"Downlaod. And you can use a built-in shortcode and widget to create custom "
+"links, current page URLs, WiFi access, Google Map location, phone numbers, "
+"WhatsApp chats. For Elementor users, you'll find the 'Master QR' add-on in "
+"the Elementor edit panel, and you'll be able to use it easily with multiple "
+"options."
+msgstr ""
+
+#: admin/pro_features.php:12
+msgid "Why Upgrade"
+msgstr ""
+
+#: admin/pro_features.php:13
+msgid "Amazing QR Code Desing"
+msgstr ""
+
+#: admin/pro_features.php:14
+msgid ""
+"Users can design more than 14- 20 QR Code using  Color, Background Color, "
+"Background Image, Center Logo, Timing Color, Color Dotscale and many more."
+msgstr ""
+
+#: admin/pro_features.php:14 admin/pro_features.php:109
+msgid "View Demo"
+msgstr ""
+
+#: admin/pro_features.php:17
+msgid "Normal + Logo Image"
+msgstr ""
+
+#: admin/pro_features.php:22
+msgid "Eye Color & Logo"
+msgstr ""
+
+#: admin/pro_features.php:27
+msgid "vCard Generator"
+msgstr ""
+
+#: admin/pro_features.php:33
+msgid "Timing Color + Logo"
+msgstr ""
+
+#: admin/pro_features.php:39
+msgid "QR Color + Logo"
+msgstr ""
+
+#: admin/pro_features.php:44
+msgid "Background Color + Logo"
+msgstr ""
+
+#: admin/pro_features.php:49
+msgid "Background Image + Dot Scale"
+msgstr ""
+
+#: admin/pro_features.php:54
+msgid " Logo + Colorful Dot Scale"
+msgstr ""
+
+#: admin/pro_features.php:60
+msgid "Logo + Background image + Colorful Dot"
+msgstr ""
+
+#: admin/pro_features.php:71
+msgid "Create QR For"
+msgstr ""
+
+#: admin/pro_features.php:74
+msgid "Custom Link "
+msgstr ""
+
+#: admin/pro_features.php:75
+msgid "Custom Text / Number "
+msgstr ""
+
+#: admin/pro_features.php:76
+msgid "Google Map Location "
+msgstr ""
+
+#: admin/pro_features.php:77
+msgid "WIFI Access "
+msgstr ""
+
+#: admin/pro_features.php:78
+msgid "Whatsapp Chat "
+msgstr ""
+
+#: admin/pro_features.php:79
+msgid "Phone number "
+msgstr ""
+
+#: admin/pro_features.php:80
+msgid "Email address "
+msgstr ""
+
+#: admin/pro_features.php:83
+msgid ""
+"In Premium Version you will create QR for custom link,text,number,WIFI "
+"Access,Google Map Location,Email address and many more and display this QR "
+"with shortcode , widget "
+msgstr ""
+
+#: admin/pro_features.php:86
+msgid "Shortcode"
+msgstr ""
+
+#: admin/pro_features.php:89
+msgid "Current Url:[master-qr-generator-post]"
+msgstr ""
+
+#: admin/pro_features.php:90
+msgid "Custom Text / Number :[master-qr-generator_link]  "
+msgstr ""
+
+#: admin/pro_features.php:91
+msgid "Google Map Location [master-qr-generator_maps]  "
+msgstr ""
+
+#: admin/pro_features.php:92
+msgid "WIFI Access [master-qr-generator_wifi]  "
+msgstr ""
+
+#: admin/pro_features.php:93
+msgid "Whatsapp Chat [master-qr-generator_whatsapp] "
+msgstr ""
+
+#: admin/pro_features.php:96
+msgid ""
+"Users can use shortcode anywhere on the website and also they can use "
+"shortcode attributes. this is a powerful option and user can customize as "
+"per requirement.  "
+msgstr ""
+
+#: admin/pro_features.php:96
+msgid "Read More"
+msgstr ""
+
+#: admin/pro_features.php:99
+msgid "Amazing Widget"
+msgstr ""
+
+#: admin/pro_features.php:101
+msgid ""
+"Premium Plugin has amazingly powerful widget options for creating QR, users "
+"can easily create custom text, links, current page links, numbers, WhatsApp "
+"chat access, email addresses using this widget "
+msgstr ""
+
+#: admin/pro_features.php:101
+msgid "View More "
+msgstr ""
+
+#: admin/pro_features.php:104
+msgid "Bulk Print for forntend & backend"
+msgstr ""
+
+#: admin/pro_features.php:106
+msgid "Bulk Print"
+msgstr ""
+
+#: admin/pro_features.php:108
+msgid ""
+"Users Can easily Print QR from the plugin settings page & Frontend. In this "
+"setting area, you can choose post types like ‘product’, ‘post’, ‘page’, "
+"‘custom post’ etc and also taxonomy. You can use the print per page, dynamic "
+"pagination feature, and beautiful pop-up printing option. You will get the "
+"printout as a PDF."
+msgstr ""
+
+#: admin/pro_features.php:112
+msgid "Bulk Download for forntend & backend"
+msgstr ""
+
+#: admin/pro_features.php:114
+msgid "Bulk Download"
+msgstr ""
+
+#: admin/pro_features.php:116
+msgid ""
+"Users Can easily Download QR from the plugin settings page & Frontend. In "
+"this setting area, you can choose post types like ‘product’, ‘post’, ‘page’, "
+"‘custom post’ etc"
+msgstr ""
+
+#: admin/pro_features.php:117
+msgid "View Demo  "
+msgstr ""
+
+#: admin/pro_features.php:120
+msgid "Elementor Addon Support"
+msgstr ""
+
+#: admin/pro_features.php:123
+msgid ""
+"For Elementor users can use Master QR easily with the “Master QR” addon. "
+"Available option for Current Page URL, Custom Link, Emails address, Phone "
+"NUmber, WIFI Access, WhatsApp Chat. Use of Elementor Widget. Please see the "
+msgstr ""
+
+#: admin/pro_features.php:124
+msgid "documentation"
+msgstr ""
+
+#: admin/pro_features.php:138
+msgid "Get Now"
+msgstr ""
+
+#: admin/pro_features.php:139
+msgid ""
+"With all the advance features you get it’s tough to resist shopping for "
+"Master QR Pro."
+msgstr ""
+
+#: admin/pro_features.php:141
+msgid "Buy Now"
+msgstr ""
+
+#: public/class-masterqr-lite-public.php:159
+msgid "Product QR"
+msgstr ""
